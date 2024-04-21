@@ -15,7 +15,7 @@ export default function Footer () {
           <a href="#"><i className="fa-brands fa-whatsapp"></i></a>
         </div>
         <p>
-          ©2023 Todos los derechos reservados - Adopta Perrito
+          ©2024 Todos los derechos reservados - Adopta Perrito
         </p>
     </div>
   );
